@@ -101,7 +101,7 @@ const Header = () => {
             <NavigationLink to="/">Home</NavigationLink>
               <NavigationLink to="/about">About</NavigationLink>
               <NavigationLink to="/services">Services</NavigationLink>
-              <NavigationLink to="vision-objectives">Vision & Objectives</NavigationLink>
+              <NavigationLink to="/vision-objectives">Vision & Objectives</NavigationLink>
               <NavigationLink to="#">Testimonials</NavigationLink>
               <NavigationLink to="/contact">Contact</NavigationLink>
             </VStack>
